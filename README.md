@@ -6,10 +6,13 @@ This is a Role Based Control Access UI built with React and Material UI, where y
 It allows you to:
 
 Role-based access control (RBAC) UI basically allows users to create roles, assign roles to users, connect roles to resources, and set up permissions.
-View a list of users: See details such as name, status, role, and whether status is active or not.
-Add new users: You can add new users to the system with their name, email, role, status, and 2FA preferences.
-Edit user details: You can edit a user’s information, such as their status or role.
-Delete users: You can remove users from the system.
+1. View a list of users: See details such as name, status, role, and whether status is active or not.
+
+2. Add new users: You can add new users to the system with their name, email, role, status, and 2FA preferences.
+
+3. Edit user details: You can edit a user’s information, such as their status or role.
+
+4. Delete users: You can remove users from the system.
 
 # Key Features:
 User Table: Displays user data in a table format with options to edit, delete, and toggle user status (Active/Inactive).
