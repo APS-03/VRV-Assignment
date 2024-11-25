@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Josh Stone", "email": "josh.stone@maxihost.com", "status": "ACTIVE", "role": "Full Permission", "2fa": true },
+    { "id": 2, "name": "Paul Costa", "email": "paul.costa@maxihost.com", "status": "ACTIVE", "role": "Full Permission", "2fa": true },
+    { "id": 3, "name": "Richard Compton", "email": "richard.compton@bill.com", "status": "ACTIVE", "role": "Read", "2fa": true },
+    { "id": 4, "name": "Ricardo Bortolansa", "email": "ricardo.bortolansa@maxihost.com", "status": "ACTIVE", "role": "Write", "2fa": true },
+    { "id": 5, "name": "Everaldo Gomes", "email": "everaldo.gomes@gmail.com", "status": "ACTIVE", "role": "Delete", "2fa": true }
+  ]
+}
