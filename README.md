@@ -16,4 +16,5 @@ Role Management: Assign roles to users and edit them.
 
 # Tech Stack:
 Frontend: React, Material UI (for the UI components)
+
 Backend: A mock server or local API (like json-server) to simulate the user data and handle CRUD operations.
